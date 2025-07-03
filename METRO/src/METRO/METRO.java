@@ -125,20 +125,7 @@ public class METRO {
                 scanner.close();
         	}
         	}
-<<<<<<< HEAD
-       kj nkj nkj kjn 
-=======
->>>>>>> branch 'master' of https://github.com/tharunithunikipati/practice_Questions.git
-           }  
-<<<<<<< HEAD
-        System.out.println();
-          }
-=======
-         }
->>>>>>> branch 'master' of https://github.com/tharunithunikipati/practice_Questions.git
-                           
-}
-             o,kok,o,o,
+
                 			
                 	
             
