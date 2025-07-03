@@ -127,7 +127,7 @@ public class METRO {
         	}
        kj nkj nkj kjn 
            }  
-        System.out.println("tharuni");
+        System.out.println();
           }
                            
 }
