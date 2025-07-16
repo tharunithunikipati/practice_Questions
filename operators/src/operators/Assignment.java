@@ -15,6 +15,4 @@ public class Assignment {
 		a%=6;
 		System.out.println("a%=6 :"+a);
 	}
-
 }
-++++++
