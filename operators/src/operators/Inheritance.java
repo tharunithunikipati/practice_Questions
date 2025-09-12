@@ -1,5 +1,5 @@
 package operators;
-import java.util.Scanner.*;
+import java.util.*;
 public class Inheritance {
 
 }
