@@ -1,11 +1,8 @@
 package metro;
-//import java.util.*;
 import java.util.Scanner;
-
 public class metro {
    public metro() {
    }
-
    public static void main(String[] args) {
       Scanner scanner = new Scanner(System.in);
       System.out.println("enter values");
@@ -147,4 +144,5 @@ public class metro {
       }
    }
 }
+
 
