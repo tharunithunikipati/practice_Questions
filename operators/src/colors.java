@@ -1,4 +1,5 @@
 package colors;
+
 public class colors {
 	public static void main(String args[]);
 	String[] colors= {"red","blue","green","orange"};
