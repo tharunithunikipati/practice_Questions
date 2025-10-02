@@ -53,7 +53,6 @@ public class metro {
                      if (!isLoggedIn) {
                         continue label107;
                      }
-
                      System.out.println("1. Recharge\n  2. Book Tickets\n 3. View Balance\n 4. Last Ticket\n  5. Logout");
                      System.out.print("Enter choice: ");
                      int op = scanner.nextInt();
@@ -131,7 +130,6 @@ public class metro {
                               System.out.println("Invalid stations.");
                            }
                         }
-
                         System.out.print("Book more tickets? (yes/no): ");
                         String again = scanner.next();
                         if (again.equalsIgnoreCase("yes")) {
@@ -144,5 +142,6 @@ public class metro {
       }
    }
 }
+
 
 
