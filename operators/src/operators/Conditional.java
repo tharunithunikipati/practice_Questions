@@ -1,4 +1,5 @@
 package operators;
+
 public class Conditional {
 	public static void main(String args[]) {
 		int a=12;
@@ -7,4 +8,5 @@ public class Conditional {
 		}
 	}
 }
+
 
