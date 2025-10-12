@@ -1,4 +1,5 @@
 package operators;
+
 public class operators {
 	public static void main(String args[])
 	{
@@ -11,4 +12,5 @@ public class operators {
 		System.out.println("A % B =:"+(a%b));
 	}
 }
+
 
