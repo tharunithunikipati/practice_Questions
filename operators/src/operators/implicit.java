@@ -5,6 +5,6 @@ public class implicit {
 		int i=b;
 		System.out.println(b+" "+i);
 	}
-
 }
+
 
