@@ -5,6 +5,6 @@ public class explicit {
 		float f=10;
 		System.out.println(i+" "+f);
 	}
-
 }
+
 
