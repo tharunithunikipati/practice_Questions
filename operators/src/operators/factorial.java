@@ -5,12 +5,9 @@ public class factorial {
 		int i=5;
 		for( i=1; i<=5; i++) {
 			fact=fact*i;
-			System.out.println(fact);
-			
-		}
-	
-	
+			System.out.println(fact);		
+		}	
 	}
-
 }
+
 
