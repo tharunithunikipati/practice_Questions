@@ -1,4 +1,5 @@
 package operators;
+
 public class reverse {
 	public static void main(String args[]) {
 		int number=1234;
@@ -11,5 +12,6 @@ public class reverse {
 		System.out.println("Reversed number: " + reverse);	
 	}
 }
+
 
 
