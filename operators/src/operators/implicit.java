@@ -1,4 +1,5 @@
 package operators;
+
 public class implicit {
 	public static void main(String args[]) {
 		byte b=10;
@@ -6,5 +7,6 @@ public class implicit {
 		System.out.println(b+" "+i);
 	}
 }
+
 
 
