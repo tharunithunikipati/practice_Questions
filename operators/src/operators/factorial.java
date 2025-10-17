@@ -1,4 +1,5 @@
 package operators;
+
 public class factorial {
 	public static void main(String args[]) {
 		int fact=1;
@@ -9,5 +10,6 @@ public class factorial {
 		}	
 	}
 }
+
 
 
