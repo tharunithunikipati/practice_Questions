@@ -1,5 +1,4 @@
 package operators;
-
 public class Ternary {
 	public static void main(String args[]) {
 		int a=12;
@@ -7,8 +6,7 @@ public class Ternary {
 		int min = b<a?b:a;
 		System.out.println("min"+min);
 		int max = a<b?b:a;
-		System.out.println("max"+max);
-		
+		System.out.println("max"+max);	
 	}
-
 }
+
