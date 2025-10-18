@@ -1,5 +1,6 @@
 package operators;
 import java.util*;
+//prime numbers
 public class Prime {
 	    public static void main(String[] args) {
 	        System.out.println("Prime numbers from 1 to 10:");
