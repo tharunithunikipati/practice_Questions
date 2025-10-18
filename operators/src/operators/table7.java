@@ -1,5 +1,6 @@
 package operators;
 import java.util*;
+
 public class table7 {
 	public static void main(String [] args) {
 		int number = 7;
@@ -9,6 +10,7 @@ public class table7 {
 		}
 	}
 }
+
 
 
 
