@@ -1,5 +1,4 @@
 package operators;
-
 public class WhileLoop {
 	public static void main(String args[]) {
 		int i=2;
@@ -9,5 +8,6 @@ public class WhileLoop {
 		}
 	}
 }
+
 
 
