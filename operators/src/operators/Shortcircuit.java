@@ -1,5 +1,6 @@
 package operators;
 public class Shortcircuit {
+	
 	public static void main(String args[]) {
 		int a=90;
 		int b=70;
@@ -15,6 +16,7 @@ public class Shortcircuit {
 	}
 	}
 }
+
 
 
 
