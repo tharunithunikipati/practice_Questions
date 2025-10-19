@@ -6,4 +6,4 @@ public class colors {
 		System.out.println(colors[i]);
 	}
 }
-//
+
