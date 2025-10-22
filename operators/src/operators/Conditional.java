@@ -6,8 +6,10 @@ public class Conditional {
 		if(a==12) {
 			System.out.println("A value:"+a);
 		}
+		
 	}
 }
+
 
 
 
