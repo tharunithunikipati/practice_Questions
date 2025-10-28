@@ -6,10 +6,10 @@ public class Countdown {
 		do {
 			System.out.println(num);
 			num--;
-		} while(num>=90);	
-		
+		} while(num>=90);		
 	}
 }
+
 
 
 
