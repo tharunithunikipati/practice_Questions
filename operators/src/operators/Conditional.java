@@ -5,9 +5,11 @@ public class Conditional {
 		int a=12;
 		if(a==12) {
 			System.out.println("A value:"+a);
+			
 		}	
 	}
 }
+
 
 
 
