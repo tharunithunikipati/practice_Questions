@@ -12,8 +12,7 @@ public class Prime {
 	                }
 	            }
 	            if (isPrime) {
-	                System.out.print(num + " ");
-					
+	                System.out.print(num + " ");	
 	            }
 	        }
 	    }
