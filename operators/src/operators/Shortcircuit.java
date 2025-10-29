@@ -1,6 +1,5 @@
 package operators;
 import java.util*;
-
 public class Shortcircuit {	
 	public static void main(String args[]) {
 		int a=90;
@@ -17,6 +16,7 @@ public class Shortcircuit {
 	}
 	}
 }
+
 
 
 
