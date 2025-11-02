@@ -1,6 +1,5 @@
 package operators;
 import java.util.*;
-
 public class Dowhile {
 	public static void main(String args[]) {
 		int i=1;
@@ -10,6 +9,7 @@ public class Dowhile {
 		} while(i<=5);
 	}
 }
+
 
 
 
