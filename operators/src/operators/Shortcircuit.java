@@ -14,9 +14,9 @@ public class Shortcircuit {
 		{
 		System.out.println(c+" "+d);
 	}
-	}
-	
+	}	
 }
+
 
 
 
