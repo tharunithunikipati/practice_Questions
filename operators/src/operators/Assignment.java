@@ -1,6 +1,6 @@
 package operators;
 import java.util;
-public class Assignment {
+class Assignment {
 	public static void main(String args[]) {
 		int a=2;
 		System.out.println("a= :"+a);
@@ -16,6 +16,7 @@ public class Assignment {
 		System.out.println("a%=6 :"+a);
 	}
 }
+
 
 
 
