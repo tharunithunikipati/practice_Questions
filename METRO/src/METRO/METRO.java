@@ -34,7 +34,6 @@ public class metro {
                   scanner.close();
                   return;
                }
-
                System.out.println("Invalid input.");
             } else {
                System.out.println("enter user name");
@@ -141,6 +140,7 @@ public class metro {
       }
    }
 }
+
 
 
 
