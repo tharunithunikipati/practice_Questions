@@ -42,7 +42,6 @@ public class metro {
                String p = scanner.nextLine();
                if (u.equals(registereduser) && p.equals(registeredpass)) {
                }
-
                isLoggedIn = true;
                System.out.println("login successful/n");
 
@@ -140,6 +139,7 @@ public class metro {
       }
    }
 }
+
 
 
 
