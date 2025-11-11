@@ -32,8 +32,7 @@ public class metro {
                if (choice == 3) {
                   System.out.println("Exiting...");
                   scanner.close();
-                  return;
-                  
+                  return;      
                }
                System.out.println("Invalid input.");
             } else {
@@ -139,6 +138,7 @@ public class metro {
       }
    }
 }
+
 
 
 
