@@ -33,6 +33,7 @@ public class metro {
                   System.out.println("Exiting...");
                   scanner.close();
                   return;
+                  
                }
                System.out.println("Invalid input.");
             } else {
@@ -138,6 +139,7 @@ public class metro {
       }
    }
 }
+
 
 
 
