@@ -8,7 +8,6 @@ import java.util;
 
 
 
-
 class Assignment {
 	public static void main(String args[]) {
 		int a=2;
@@ -25,6 +24,7 @@ class Assignment {
 		System.out.println("a%=6 :"+a);
 	}
 }
+
 
 
 
