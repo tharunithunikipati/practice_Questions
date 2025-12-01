@@ -4,8 +4,7 @@ public class Boolean {
 
 
 
-
-	public static void main(String args[]) {
+public static void main(String args[]) {
 		int a=10;
 		int b=2;
 		System.out.println("a=  :"+a);
@@ -16,6 +15,7 @@ public class Boolean {
 		System.out.println("a <<b :"+(a>>b));
 	}
 }
+
 
 
 
