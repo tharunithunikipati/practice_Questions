@@ -4,7 +4,6 @@ class Assignment {
 
 
 
-
 	public static void main(String args[]) {
 		int a=2;
 		System.out.println("a= :"+a);
@@ -20,6 +19,7 @@ class Assignment {
 		System.out.println("a%=6 :"+a);
 	}
 }
+
 
 
 
